@@ -7,6 +7,8 @@ var clust2;
 var c1, c2;
 var collection = [];
 
+// making a comment here for this sketch
+
 function setup() {
   //createCanvas(windowWidth, windowHeight);
   createCanvas(400, 400);
